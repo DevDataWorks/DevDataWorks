@@ -48,13 +48,12 @@ MISSION LOG
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```
-
 ## 📊 GitHub Analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=github_dark&cache_seconds=1800"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=github_dark&cache_seconds=1800"/>
 
-![Streak](https://streak-stats.demolab.com?user=DevDataWorks&theme=tokyonight)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevDataWorks&theme=github-dark-blue"/>
 
-![](https://komarev.com/ghpvc/?username=DevDataWorks&color=blue)
+![](https://komarev.com/ghpvc/?username=DevDataWorks&label=Profile%20Views&color=0e75b6&style=flat)
