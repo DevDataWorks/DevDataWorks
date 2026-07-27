@@ -144,11 +144,17 @@ Open Source              ██████░░░░░ 60%
 
 ## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=radical)](https://github.com/DevDataWorks)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=radical)](https://github.com/DevDataWorks)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DevDataWorks&theme=radical)](https://github.com/DevDataWorks)
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=DevDataWorks&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🎯 2026 Focus
