@@ -142,13 +142,20 @@ Open Source              ██████░░░░░ 60%
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=tokyonight)
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=tokyonight)
+<p align="center">
+<img width="70%" src="https://streak-stats.demolab.com?user=DevDataWorks&theme=tokyonight&hide_border=true"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DevDataWorks&theme=tokyonight)
+<p align="center">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevDataWorks&theme=tokyonight"/>
+</p>
 
 ---
 
