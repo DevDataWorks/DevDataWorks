@@ -50,9 +50,9 @@ MISSION LOG
 ```
 ## 📊 GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevDataWorks&show_icons=true&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=github_dark&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=tokyonight" />
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DevDataWorks&theme=github-dark-blue"/>
 
