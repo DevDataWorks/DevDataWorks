@@ -145,15 +145,15 @@ Open Source              ██████░░░░░ 60%
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=DevDataWorks&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDataWorks&theme=github-dark-blue&hide_border=true" />
 </p>
 ---
 
