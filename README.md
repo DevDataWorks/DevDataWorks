@@ -1,28 +1,46 @@
-<h1 align="center">Dev Rastogi</h1>
+<h1 align="center">👋 Hi, I'm Dev Rastogi</h1>
 
 <p align="center">
-AI/ML Engineer • Software Developer • Generative AI Builder
+AI/ML Engineer • Full Stack Developer • Generative AI Builder
 </p>
 
 <p align="center">
-B.Tech (AI & ML) Student | Building AI-powered applications, intelligent systems, and scalable software.
+Building AI-powered products, intelligent systems, and scalable software.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=DevDataWorks&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Builder;Building+with+LLMs+and+RAG;Creating+Real-World+AI+Products" />
 </p>
 
 ---
 
-## Professional Summary
+## 🚀 Mission Control
 
-Computer Science student specializing in Artificial Intelligence and Machine Learning with hands-on experience in Generative AI, Full Stack Development, FastAPI, React, and Cloud Technologies.
-
-Currently focused on building production-oriented AI applications involving LLMs, Retrieval-Augmented Generation (RAG), NLP, and intelligent automation systems.
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ NAME            : Dev Rastogi                              │
+│ ROLE            : AI/ML Engineer                           │
+│ EDUCATION       : B.Tech (AI & ML)                         │
+│ LOCATION        : Greater Noida, India                     │
+│ STATUS          : Building AI-Powered Solutions            │
+│ CURRENT TRACK   : MirAI AI Builder                         │
+│ CGPA            : 8.42 / 10                               │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## Technical Expertise
+## 🧠 Professional Summary
+
+Computer Science student specializing in Artificial Intelligence and Machine Learning.
+
+Focused on developing production-oriented AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, React, cloud technologies, and modern software engineering practices.
+
+Passionate about transforming innovative ideas into practical products that create measurable impact.
+
+---
+
+## ⚙️ Tech Arsenal
 
 ### Languages
 Python • C++ • JavaScript • SQL
@@ -30,55 +48,67 @@ Python • C++ • JavaScript • SQL
 ### AI & Machine Learning
 Machine Learning • Generative AI • LLMs • RAG • NLP • Prompt Engineering • Pandas • NumPy
 
-### Backend Development
+### Backend
 FastAPI • Flask • Node.js • REST APIs
 
-### Frontend Development
-React • HTML5 • CSS3 • Responsive Web Design
+### Frontend
+React • HTML5 • CSS3 • Responsive Design
 
 ### Databases
 MongoDB • MySQL
 
 ### Cloud & Tools
-AWS • Oracle Cloud Infrastructure (OCI) • Git • GitHub • Postman • n8n
-
-### Computer Science Fundamentals
-Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
+AWS • Oracle Cloud Infrastructure • Git • GitHub • Postman • n8n
 
 ---
 
-## Featured Projects
+## 🏗 Featured Projects
 
-### AI Resume Analyzer
-ATS-compatible resume analysis platform utilizing FastAPI, NLP, and Generative AI.
+### 🧠 AI Resume Analyzer
+ATS Resume Analyzer powered by NLP and Generative AI.
 
-**Key Highlights**
-- Resume parsing and job-match scoring
-- LLM-powered resume improvement recommendations
-- REST API architecture
-- Automated candidate evaluation workflows
-
-### AI Study Assistant
-Intelligent learning platform powered by Large Language Models.
-
-**Key Highlights**
-- Concept explanation and summarization
-- Note generation
-- Doubt resolution
-- Multi-subject academic assistance
-
-### Agri Connect SuperApp
-Mobile-first digital platform connecting farmers, buyers, and service providers.
-
-**Key Highlights**
-- Responsive design architecture
-- Marketplace integration
-- Service management modules
-- User-centric workflow optimization
+**Highlights**
+- Resume Parsing
+- Job Match Scoring
+- AI Resume Recommendations
+- FastAPI REST APIs
 
 ---
 
-## Certifications
+### 📚 AI Study Assistant
+LLM-powered academic assistant.
+
+**Highlights**
+- Note Generation
+- Concept Summarization
+- Doubt Resolution
+- Context-Aware Responses
+
+---
+
+### 🌾 Agri Connect SuperApp
+Digital ecosystem connecting farmers, buyers, and service providers.
+
+**Highlights**
+- Marketplace Platform
+- Responsive Architecture
+- Service Integration
+- Multi-Module Design
+
+---
+
+### 🤖 Current AI Experiments
+
+- AI Agents
+- Agentic Workflows
+- RAG Pipelines
+- LLM Applications
+- Intelligent Automation
+- AI Product Development
+
+---
+
+## 🏆 Certifications
 
 - Oracle Cloud Infrastructure AI Foundations Associate
 - AWS Data Engineering Foundations
@@ -89,7 +119,7 @@ Mobile-first digital platform connecting farmers, buyers, and service providers.
 
 ---
 
-## Leadership & Achievements
+## 🎖 Leadership & Achievements
 
 - Top Performer — Internshala Student Partner Program
 - Campus Ambassador — Techkriti'26, IIT Kanpur
@@ -98,31 +128,45 @@ Mobile-first digital platform connecting farmers, buyers, and service providers.
 
 ---
 
-## Current Focus Areas
+## 📈 Growth Roadmap
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
+```text
+AI Engineering           ██████████░ 90%
+Generative AI            █████████░░ 85%
+LLMs & RAG               █████████░░ 85%
+Full Stack Development   ████████░░░ 80%
+Cloud Computing          ███████░░░░ 70%
+System Design            ██████░░░░░ 60%
+Open Source              ██████░░░░░ 60%
+```
+
+---
+
+## 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DevDataWorks&theme=tokyonight)
+
+---
+
+## 🎯 2026 Focus
+
+- Building AI Products
+- Advanced Prompt Engineering
+- Retrieval-Augmented Generation
 - AI Agents
-- Intelligent Automation
-- System Design
-- Cloud Computing
-- Full Stack Engineering
+- Cloud-Native Development
+- Full Stack Applications
+- Open Source Contributions
 
 ---
 
-## GitHub Analytics
+## 🌐 Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DevDataWorks&theme=github-dark-blue)
-
----
-
-## Connect
-
-📧 Email: dev.rastogi.334@gmail.com
+📧 dev.rastogi.334@gmail.com
 
 💻 GitHub: https://github.com/DevDataWorks
 
@@ -130,4 +174,4 @@ Mobile-first digital platform connecting farmers, buyers, and service providers.
 
 ---
 
-> Building intelligent systems that create measurable impact through AI and software engineering.
+> "Building intelligent systems that solve real-world problems through AI and software engineering."
