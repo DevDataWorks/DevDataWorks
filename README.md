@@ -1,177 +1,203 @@
-<h1 align="center">👋 Hi, I'm Dev Rastogi</h1>
+<h1 align="center">Dev Rastogi</h1>
+
+<h3 align="center">AI Engineer • Full Stack Developer • Generative AI Builder</h3>
 
 <p align="center">
-AI/ML Engineer • Full Stack Developer • Generative AI Builder
+Building intelligent products powered by AI, automation, and modern software engineering.
 </p>
 
 <p align="center">
-Building AI-powered products, intelligent systems, and scalable software.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Building+with+LLMs+and+RAG;AI+Agents+%26+Automation;Open+Source+Learner;Future+AI+Product+Builder" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Generative+AI+Builder;Building+with+LLMs+and+RAG;Creating+Real-World+AI+Products" />
+<img src="https://komarev.com/ghpvc/?username=DevDataWorks&label=Profile+Views&style=for-the-badge&color=0e75b6" />
 </p>
 
 ---
 
-## 🚀 Mission Control
+# 🚀 Executive Summary
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│ NAME            : Dev Rastogi                              │
-│ ROLE            : AI/ML Engineer                           │
-│ EDUCATION       : B.Tech (AI & ML)                         │
-│ LOCATION        : Greater Noida, India                     │
-│ STATUS          : Building AI-Powered Solutions            │
-│ CURRENT TRACK   : MirAI AI Builder                         │
-│ CGPA            : 8.42 / 10                               │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│ DEV RASTOGI                                                │
+├────────────────────────────────────────────────────────────┤
+│ Role        : AI Engineer                                  │
+│ Education   : B.Tech (AI & ML)                             │
+│ CGPA        : 8.42 / 10                                    │
+│ Focus       : Generative AI, LLMs, RAG, Full Stack         │
+│ Location    : India                                        │
+│ Status      : Building Real-World AI Products              │
+│ Mission     : Solve practical problems using AI            │
+└────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 Professional Summary
+# 🧠 About Me
 
-Computer Science student specializing in Artificial Intelligence and Machine Learning.
+I am a B.Tech student specializing in Artificial Intelligence and Machine Learning with a strong interest in building production-ready AI systems.
 
-Focused on developing production-oriented AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), FastAPI, React, cloud technologies, and modern software engineering practices.
+My work focuses on:
 
-Passionate about transforming innovative ideas into practical products that create measurable impact.
+- Generative AI Applications
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents & Automation
+- Full Stack Development
+- Cloud Technologies
 
----
-
-## ⚙️ Tech Arsenal
-
-### Languages
-Python • C++ • JavaScript • SQL
-
-### AI & Machine Learning
-Machine Learning • Generative AI • LLMs • RAG • NLP • Prompt Engineering • Pandas • NumPy
-
-### Backend
-FastAPI • Flask • Node.js • REST APIs
-
-### Frontend
-React • HTML5 • CSS3 • Responsive Design
-
-### Databases
-MongoDB • MySQL
-
-### Cloud & Tools
-AWS • Oracle Cloud Infrastructure • Git • GitHub • Postman • n8n
+I enjoy turning ideas into practical software that delivers measurable impact.
 
 ---
 
-## 🏗 Featured Projects
+# ⚡ Technology Stack
 
-### 🧠 AI Resume Analyzer
-ATS Resume Analyzer powered by NLP and Generative AI.
+## Languages
 
-**Highlights**
+```text
+Python      ████████████████████
+JavaScript  ██████████████████
+C++         ███████████████
+SQL         █████████████
+```
+
+## AI & Machine Learning
+
+```text
+LLMs                 ██████████████████
+RAG Systems          █████████████████
+Prompt Engineering   █████████████████
+Machine Learning     ████████████████
+NLP                  ███████████████
+```
+
+## Development
+
+```text
+React.js      ████████████████
+FastAPI       ████████████████
+Node.js       ██████████████
+MongoDB       ██████████████
+MySQL         █████████████
+```
+
+---
+
+# 🏗 Featured Projects
+
+## 🧠 AI Resume Analyzer
+
+ATS-compatible resume analysis platform powered by NLP and Generative AI.
+
+**Features**
 - Resume Parsing
-- Job Match Scoring
-- AI Resume Recommendations
-- FastAPI REST APIs
+- ATS Score Analysis
+- AI Suggestions
+- FastAPI Backend
 
 ---
 
-### 📚 AI Study Assistant
-LLM-powered academic assistant.
+## 📚 AI Study Assistant
 
-**Highlights**
-- Note Generation
-- Concept Summarization
+AI-powered learning assistant designed for academic productivity.
+
+**Features**
+- Concept Summaries
+- Intelligent Notes
 - Doubt Resolution
-- Context-Aware Responses
+- Personalized Learning Support
 
 ---
 
-### 🌾 Agri Connect SuperApp
+## 🌾 Agri Connect SuperApp
+
 Digital ecosystem connecting farmers, buyers, and service providers.
 
-**Highlights**
-- Marketplace Platform
-- Responsive Architecture
-- Service Integration
-- Multi-Module Design
+**Features**
+- Marketplace Integration
+- Responsive Platform
+- Service Management
+- Scalable Architecture
 
 ---
 
-### 🤖 Current AI Experiments
+# 🏆 Certifications
+
+✅ Oracle Cloud Infrastructure AI Foundations Associate
+
+✅ AWS Data Engineering Foundations
+
+✅ NVIDIA Jetson Nano AI Fundamentals
+
+✅ Generative AI Mastery Workshop
+
+✅ Walmart Global Tech Software Engineering Simulation
+
+✅ JPMorgan Chase Software Engineering Simulation
+
+---
+
+# 🎖 Leadership & Achievements
+
+🚀 AI Builder Intern — MirAI School of Technology
+
+🚀 Top Performer — Internshala Student Partner Program
+
+🚀 Campus Ambassador — Techkriti'26, IIT Kanpur
+
+🚀 Campus Ambassador — Entrepreneurship Development Cell, IIT Delhi
+
+🚀 Participant — Base44 AI Hackathon
+
+---
+
+# 📈 Professional Growth Dashboard
+
+```text
+AI Engineering            ██████████░ 90%
+Generative AI             █████████░░ 85%
+LLMs & RAG                █████████░░ 85%
+Full Stack Development    ████████░░░ 80%
+Cloud Computing           ███████░░░░ 70%
+System Design             ██████░░░░░ 60%
+Open Source               ██████░░░░░ 60%
+```
+
+---
+
+# 🔥 Current Focus
 
 - AI Agents
 - Agentic Workflows
-- RAG Pipelines
-- LLM Applications
-- Intelligent Automation
-- AI Product Development
-
----
-
-## 🏆 Certifications
-
-- Oracle Cloud Infrastructure AI Foundations Associate
-- AWS Data Engineering Foundations
-- NVIDIA Jetson Nano AI Fundamentals
-- Generative AI Mastery Workshop
-- Walmart Global Tech Software Engineering Simulation
-- JPMorgan Chase Software Engineering Simulation
-
----
-
-## 🎖 Leadership & Achievements
-
-- Top Performer — Internshala Student Partner Program
-- Campus Ambassador — Techkriti'26, IIT Kanpur
-- Campus Ambassador — Entrepreneurship Development Cell, IIT Delhi
-- Participant — Base44 AI Hackathon
-
----
-
-## 📈 Growth Roadmap
-
-```text
-AI Engineering           ██████████░ 90%
-Generative AI            █████████░░ 85%
-LLMs & RAG               █████████░░ 85%
-Full Stack Development   ████████░░░ 80%
-Cloud Computing          ███████░░░░ 70%
-System Design            ██████░░░░░ 60%
-Open Source              ██████░░░░░ 60%
-```
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevDataWorks&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDataWorks&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevDataWorks&theme=github-dark-blue&hide_border=true" />
-</p>
----
-
-## 🎯 2026 Focus
-
-- Building AI Products
-- Advanced Prompt Engineering
 - Retrieval-Augmented Generation
-- AI Agents
-- Cloud-Native Development
+- Production AI Systems
 - Full Stack Applications
+- Cloud-Native Development
 - Open Source Contributions
 
 ---
 
-## 🌐 Connect
+# 📊 Live GitHub Activity
 
-📧 dev.rastogi.334@gmail.com
+<img src="https://streak-stats.demolab.com?user=DevDataWorks&theme=tokyonight&hide_border=true" />
+
+---
+
+# 🎯 2026 Goals
+
+- Build impactful AI products
+- Contribute to open source
+- Secure an AI Engineering internship
+- Master advanced LLM workflows
+- Develop scalable SaaS applications
+- Publish technical projects consistently
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email: dev.rastogi.334@gmail.com
 
 💻 GitHub: https://github.com/DevDataWorks
 
@@ -179,4 +205,8 @@ Open Source              ██████░░░░░ 60%
 
 ---
 
-> "Building intelligent systems that solve real-world problems through AI and software engineering."
+<div align="center">
+
+### "Building intelligent systems that create real-world impact."
+
+</div>
